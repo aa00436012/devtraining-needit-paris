@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Earthquake Data" max_length="40" name="x_58872_needit_earthquake_data" sizeclass="0" type="collection">
+        <element label="Area" max_length="255" name="area" type="string_full_utf8"/>
+        <element choice="2" label="Earthquake date" max_length="40" name="earthquake_date" type="glide_date">
+            <choice/>
+        </element>
+    </element>
+</database>

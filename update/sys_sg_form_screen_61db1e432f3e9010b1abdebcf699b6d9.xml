@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_screen">
+    <sys_sg_form_screen action="INSERT_OR_UPDATE">
+        <available_offline>false</available_offline>
+        <data_item/>
+        <description/>
+        <dynamic_prefetch_count/>
+        <fetch_type>not_required</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value=" My Open NeedIt Requests Icon">e5db1e432f3e9010b1abdebcf699b6d4</icon>
+        <item_view display_value=" My Open NeedIt Requests Header Item View">e9db1e432f3e9010b1abdebcf699b6d6</item_view>
+        <name> My Open NeedIt Requests</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_form_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-27 19:04:54</sys_created_on>
+        <sys_id>61db1e432f3e9010b1abdebcf699b6d9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name> My Open NeedIt Requests</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_form_screen_61db1e432f3e9010b1abdebcf699b6d9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-27 19:04:54</sys_updated_on>
+        <table>x_58872_needit_needit</table>
+    </sys_sg_form_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=61db1e432f3e9010b1abdebcf699b6d9"/>
+</record_update>
